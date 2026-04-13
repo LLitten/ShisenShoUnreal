@@ -85,9 +85,13 @@
 				"C:/Users/lizag/OneDrive/Desktop/GitHubLocal/ShisenShoUnreal/ShisenSho/Content/__ExternalActors__/StartScene/B/84/EANIBNJKRESV6T2DKMZB7T.uasset",
 				"C:/Users/lizag/OneDrive/Desktop/GitHubLocal/ShisenShoUnreal/ShisenSho/Content/__ExternalActors__/StartScene/1/HX/2WW93G3210ZT5LFBIFPNHS.uasset",
 				"C:/Users/lizag/OneDrive/Desktop/GitHubLocal/ShisenShoUnreal/ShisenSho/Content/__ExternalActors__/StartScene/6/0M/UUVK10O8XSX701G9UC17HR.uasset",
-				"C:/Users/lizag/OneDrive/Desktop/GitHubLocal/ShisenShoUnreal/ShisenSho/Content/__ExternalActors__/StartScene/0/5A/6JC4FNKC8FHRA67MREI11V.uasset",
 				"C:/Users/lizag/OneDrive/Desktop/GitHubLocal/ShisenShoUnreal/ShisenSho/Content/__ExternalActors__/StartScene/0/6P/ZWK9VWJPS1VTA5WO2RT2SC.uasset",
-				"C:/Users/lizag/OneDrive/Desktop/GitHubLocal/ShisenShoUnreal/ShisenSho/Content/StartScene.umap"
+				"C:/Users/lizag/OneDrive/Desktop/GitHubLocal/ShisenShoUnreal/ShisenSho/Content/StartScene.umap",
+				"C:/Users/lizag/OneDrive/Desktop/GitHubLocal/ShisenShoUnreal/ShisenSho/Content/Blueprints/WBP_HUD.uasset",
+				"C:/Users/lizag/OneDrive/Desktop/GitHubLocal/ShisenShoUnreal/ShisenSho/Content/Blueprints/BP_Gamemode.uasset",
+				"C:/Users/lizag/OneDrive/Desktop/GitHubLocal/ShisenShoUnreal/ShisenSho/Content/Blueprints/BP_MahjongTile.uasset",
+				"C:/Users/lizag/OneDrive/Desktop/GitHubLocal/ShisenShoUnreal/ShisenSho/Content/Blueprints/BP_MahjongBoard.uasset",
+				"C:/Users/lizag/OneDrive/Desktop/GitHubLocal/ShisenShoUnreal/ShisenSho/Content/__ExternalActors__/StartScene/0/5A/6JC4FNKC8FHRA67MREI11V.uasset"
 			]
 		}
 	]
